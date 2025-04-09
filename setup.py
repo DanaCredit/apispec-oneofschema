@@ -1,12 +1,12 @@
 from setuptools import setup
 
 setup(name='apispec-oneofschema',
-      version='3.0.1',
+      version='3.0.2',
       license='MIT',
       description='Plugin for apispec providing support for '
                   'Marshmallow-OneOfSchema schemas',
       author='Tim Schumacher',
-      url='https://github.com/timakro/apispec-oneofschema',
+      url='https://github.com/DanaCredit/apispec-oneofschema',
       install_requires=[
           'apispec>=3.0.0',
           'marshmallow<4.0.0',
